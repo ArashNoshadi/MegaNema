@@ -101,7 +101,7 @@ This project is part of an ongoing effort to map the deep evolutionary history o
 
 
 
-Email: [Email](nowshadiarash@gmail.com)
+Email: nowshadiarash@gmail.com
 
 LinkedIn: [link](https://www.linkedin.com/in/arash-noshadi-b72075238/)
 
@@ -109,12 +109,6 @@ LinkedIn: [link](https://www.linkedin.com/in/arash-noshadi-b72075238/)
 
 If you use this pipeline or data in your research, please cite our upcoming manuscript:
 
-> Noshadi, A., et al. (In Prep). *Dynamic orchestration of macroevolutionary transitions in Nematoda: Re-evaluating Dollo's Law and the Genome Size Paradox.*
+> Noshadi, A., et al.
 
 ---
-
-*Built with rigorous statistical screening to ensure biologically meaningful macroevolutionary inferences.*
-
-```
-
-```
