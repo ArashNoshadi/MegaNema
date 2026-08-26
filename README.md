@@ -99,11 +99,11 @@ This project is part of an ongoing effort to map the deep evolutionary history o
 
 **Arash Noshadi**
 
-MSc Researcher in Agricultural Biotechnology, University of Tehran
 
-Email: [Your_Email@example.com]
 
-LinkedIn: [Your_LinkedIn_Profile]
+Email: [Email](nowshadiarash@gmail.com)
+
+LinkedIn: [link](https://www.linkedin.com/in/arash-noshadi-b72075238/)
 
 ## 📜 Citation
 
